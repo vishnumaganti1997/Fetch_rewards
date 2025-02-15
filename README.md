@@ -22,4 +22,12 @@ ReceiptItems Table Quality: {"table_name":"ReceiptItems","total_rows":10000,"mis
 For Additional Data Quality Checks We can implement Additional_DQ_Checks.docx
 
 
+Task4: Write a short email or Slack message to the business stakeholder:::: Please find attached doc Staker_holder_email.docx
+
+All values are assumed and imagined, please ignore numerics.
+
+
+Hoping hearing back from you guys and really enjoyed working on this assesment. Its really interesting.
+
+
 
